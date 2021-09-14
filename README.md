@@ -1,0 +1,1 @@
+# sync-data-to-mailchimp-by-api
